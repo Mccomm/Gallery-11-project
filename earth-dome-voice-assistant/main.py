@@ -32,12 +32,13 @@ If a visitor asks about anything outside these topics (like politics, personal a
 
 
 AUTO_MESSAGES = [
-    "Artevo have been working on this earth dome, but Shouq keep changing. Jahana is tired already.",
-    "Welcome! You're experiencing the Earth Dome installation. Ask me anything about it.",
+    "Welcome! You’re experiencing the Earth Dome installation, a space that represents a blend of tradition and innovation. It symbolizes Qatar’s deep connection to its land, culture, and architectural heritage. Ask me anything about it.",
+    "The Earth Dome is crowned by a suspended Egal, a sculptural tribute to a humble, yet deeply rooted cultural symbol. Traditionally worn by men across the Gulf, the Egal here becomes more than attire. It becomes architecture. This installation invites you to look up and reflect: how do everyday objects become vessels of identity and national pride?",
     "The Earth Dome installation is a space where art and science converge. Would you like to know how this dome was originally built?",
     "The Earth Dome connects past and future through natural textures and architectural memory. Would you like to hear the story behind it?",
     "The first Earth Dome was commissioned by His Highness Sheikh Khalifa bin Hamad Al Thani, and today it is reimagined by Qatar Museums as a way to honor the nation’s legacy through art, architecture, and collective memory.",
     "The Earth Dome holds stories of sustainability, culture, and design. Ask me anything you’d like to learn."
+    "This Earth Dome installation traces its roots back to the very first dome, launched in 1975 at the State House by His Highness Sheikh Khalifa bin Hamad Al Thani. A special video walkthrough nearby captures that historic moment — from its construction to its symbolic unveiling. Would you like to see the highlight? You can simply ask me, or press the play button to begin."
 ]
 
 AUTO_RESPONSES = {
