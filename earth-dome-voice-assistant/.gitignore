@@ -1,0 +1,13 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Environment and secret keys
+.env
+*.json
+*.txt
+
+# Audio and output
+*.mp3
+output/
+data/output.mp3
